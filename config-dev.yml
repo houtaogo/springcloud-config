@@ -1,5 +1,4 @@
 server:
   port: 6001
 #开发环境配置
-config:
-  info: v1.0.0
+info: v1.0.0
